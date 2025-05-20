@@ -193,6 +193,11 @@ body {
 
 ```
 # OUTPUT:
+
+
 ![Uploading image.png…]()
+
+
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
