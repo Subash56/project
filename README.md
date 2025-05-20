@@ -195,7 +195,8 @@ body {
 # OUTPUT:
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f5bd1beb-9640-4d7c-b3b7-ce0896b0685a)
+
 
 
 
